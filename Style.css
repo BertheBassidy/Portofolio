@@ -1,0 +1,37 @@
+.cc-navbar {
+  background-color: cornflowerblue;
+}
+
+.cc-navbar .nav-link:hover {
+  color: white;
+  border-bottom: 2px solid black;
+}
+
+.gauche {
+  background-color: cornflowerblue;
+}
+
+h2 {
+  color: cornflowerblue;
+  text-decoration: underline;
+  background-color: white;
+  padding-left: 5px;
+}
+
+p {
+  text-align: justify;
+}
+
+h3 {
+  text-align: center;
+  background-color: cornflowerblue;
+}
+
+.taches ul li {
+  margin-bottom: 30px;
+  text-align: justify;
+}
+
+progress {
+  background-color: brown;
+}/*# sourceMappingURL=style.css.map */

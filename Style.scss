@@ -1,0 +1,39 @@
+
+$primaryColor: white;
+$secondaryColor: cornflowerblue;
+.cc-navbar{
+   background-color:$secondaryColor;
+}
+
+.cc-navbar .nav-link:hover{
+    color: $primaryColor;
+    border-bottom: 2px solid black;
+  
+}
+
+.gauche{
+    background-color: cornflowerblue;
+}
+
+h2{
+    color:$secondaryColor;
+    text-decoration: underline;
+    background-color: $primaryColor;
+    padding-left: 5px;
+}
+p{
+    text-align: justify;
+}
+
+h3{
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+.taches ul li{
+    margin-bottom: 30px;
+    text-align: justify;
+}
+progress{
+    background-color: brown;
+}
